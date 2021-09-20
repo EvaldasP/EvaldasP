@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Node Js
 - :computer: I'm currently working as QA Engineer (Manual Testing & Test Automation)
 - :rocket: My website https://epocius.netlify.com
-- 📫 How to reach me linkedin.com/in/evaldaspocius
+- 📫 How to reach me https://linkedin.com/in/evaldaspocius
 
 
